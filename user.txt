@@ -1,0 +1,5 @@
+user=root
+pass=zr1996root
+user=ginger
+pass=zr1996root
+

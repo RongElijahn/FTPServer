@@ -1,0 +1,1 @@
+HOME=/home/ginger/eclipse-workspace/FTPServer
